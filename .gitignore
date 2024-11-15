@@ -5,7 +5,9 @@ frontend/app/build
 frontend/app/proguard-rules.pro
 frontend/app/src/androidTest
 frontend/app/src/main/java/com/example/remotewinary/ui
+frontend/app/src/main/java/com/example/remotewinary/ui/*
 frontend/app/src/main/java/com/example/remotewinary/Activity/ui
+frontend/app/src/main/java/com/example/remotewinary/Activity/ui/*
 frontend/app/src/main/res/*
 !frontend/app/src/main/res/layout
 frontend/gradle
